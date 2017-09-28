@@ -1,5 +1,6 @@
 {
-  "Geometry": {
+  "type": "Feature",
+  "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
       [
@@ -9856,7 +9857,7 @@
       ]
     ]
   },
-  "Attributes": {
+  "properties": {
     "ISO": "IO",
     "COMMENTS": "",
     "ISO2": "IO",
@@ -9870,6 +9871,5 @@
     "OSM_ID": 1993867.0,
     "GID": 303642.0,
     "REGION": "Asia & the Pacific"
-  },
-  "FeatureId": 86
+  }
 }

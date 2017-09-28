@@ -1,5 +1,6 @@
 {
-  "Geometry": {
+  "type": "Feature",
+  "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
       [
@@ -71052,7 +71053,7 @@
       ]
     ]
   },
-  "Attributes": {
+  "properties": {
     "ISO": "SL",
     "COMMENTS": "",
     "ISO2": "SL",
@@ -71066,6 +71067,5 @@
     "OSM_ID": 192777.0,
     "GID": 197314.0,
     "REGION": "Africa"
-  },
-  "FeatureId": 69
+  }
 }
